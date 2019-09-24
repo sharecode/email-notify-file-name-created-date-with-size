@@ -22,14 +22,19 @@ $customer_name = 'customer name';
 
 $host = 'smtp.example.com';
 > SMTP server host name
+
 $port = 25;
 > SMTP server port
+
 $user = 'email-sender@example.com';
 > username for SMTP authentication
+
 $pass = '************************';
 > password for SMTP authentication
+
 $fmail = 'no-reply@example.com';
 > display email for email
+
 $fname = 'Backup Notification Service';
 > display name for email
 
